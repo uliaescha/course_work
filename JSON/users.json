@@ -1,0 +1,32 @@
+[
+  {
+    "Password": "password1",
+    "Balance": 100.0,
+    "UserName": "Alice",
+    "UserEmail": "alice@example.com"
+  },
+  {
+    "Password": "password2",
+    "Balance": 150.0,
+    "UserName": "Bob",
+    "UserEmail": "bob@example.com"
+  },
+  {
+    "Password": "password3",
+    "Balance": 200.0,
+    "UserName": "Charlie",
+    "UserEmail": "charlie@example.com"
+  },
+  {
+    "Password": "123",
+    "Balance": 996698.97,
+    "UserName": "Ulia",
+    "UserEmail": "ulia"
+  },
+  {
+    "Password": "1",
+    "Balance": 600.02,
+    "UserName": "Darci",
+    "UserEmail": "12"
+  }
+]

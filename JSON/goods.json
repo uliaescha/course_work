@@ -1,0 +1,17 @@
+[
+  {
+    "GoodsName": "Laptop",
+    "Quantity": 3,
+    "Price": 999.99
+  },
+  {
+    "GoodsName": "Smartphone",
+    "Quantity": 9,
+    "Price": 599.99
+  },
+  {
+    "GoodsName": "Headphones",
+    "Quantity": 12,
+    "Price": 199.99
+  }
+]

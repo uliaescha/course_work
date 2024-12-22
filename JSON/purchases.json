@@ -1,0 +1,146 @@
+[
+  {
+    "IndexOfPurchase": 1,
+    "Quantity": 1,
+    "User": {
+      "Password": "123",
+      "Balance": 1000.0,
+      "UserName": "Ulia",
+      "UserEmail": "ulia"
+    },
+    "Good": {
+      "GoodsName": "Headphones",
+      "Quantity": 20,
+      "Price": 199.99
+    },
+    "TotalPrice": 199.99
+  },
+  {
+    "IndexOfPurchase": 2,
+    "Quantity": 2,
+    "User": {
+      "Password": "1",
+      "Balance": 600.02,
+      "UserName": "Darci",
+      "UserEmail": "12"
+    },
+    "Good": {
+      "GoodsName": "Headphones",
+      "Quantity": 18,
+      "Price": 199.99
+    },
+    "TotalPrice": 399.98
+  },
+  {
+    "IndexOfPurchase": 3,
+    "Quantity": 1,
+    "User": {
+      "Password": "123",
+      "Balance": 200.01,
+      "UserName": "Ulia",
+      "UserEmail": "ulia"
+    },
+    "Good": {
+      "GoodsName": "Laptop",
+      "Quantity": 7,
+      "Price": 999.99
+    },
+    "TotalPrice": 999.99
+  },
+  {
+    "IndexOfPurchase": 4,
+    "Quantity": 1,
+    "User": {
+      "Password": "123",
+      "Balance": 0.02,
+      "UserName": "Ulia",
+      "UserEmail": "ulia"
+    },
+    "Good": {
+      "GoodsName": "Headphones",
+      "Quantity": 17,
+      "Price": 199.99
+    },
+    "TotalPrice": 199.99
+  },
+  {
+    "IndexOfPurchase": 5,
+    "Quantity": 1,
+    "User": {
+      "Password": "123",
+      "Balance": 1000.01,
+      "UserName": "Ulia",
+      "UserEmail": "ulia"
+    },
+    "Good": {
+      "GoodsName": "Headphones",
+      "Quantity": 16,
+      "Price": 199.99
+    },
+    "TotalPrice": 199.99
+  },
+  {
+    "IndexOfPurchase": 6,
+    "Quantity": 1,
+    "User": {
+      "Password": "123",
+      "Balance": 999098.91,
+      "UserName": "Ulia",
+      "UserEmail": "ulia"
+    },
+    "Good": {
+      "GoodsName": "Laptop",
+      "Quantity": 4,
+      "Price": 999.99
+    },
+    "TotalPrice": 999.99
+  },
+  {
+    "IndexOfPurchase": 7,
+    "Quantity": 1,
+    "User": {
+      "Password": "123",
+      "Balance": 996698.97,
+      "UserName": "Ulia",
+      "UserEmail": "ulia"
+    },
+    "Good": {
+      "GoodsName": "Smartphone",
+      "Quantity": 9,
+      "Price": 599.99
+    },
+    "TotalPrice": 599.99
+  },
+  {
+    "IndexOfPurchase": 8,
+    "Quantity": 1,
+    "User": {
+      "Password": "123",
+      "Balance": 996698.97,
+      "UserName": "Ulia",
+      "UserEmail": "ulia"
+    },
+    "Good": {
+      "GoodsName": "Laptop",
+      "Quantity": 3,
+      "Price": 999.99
+    },
+    "TotalPrice": 999.99
+  },
+  {
+    "IndexOfPurchase": 9,
+    "Quantity": 4,
+    "User": {
+      "Password": "123",
+      "Balance": 996698.97,
+      "UserName": "Ulia",
+      "UserEmail": "ulia"
+    },
+    "Good": {
+      "GoodsName": "Headphones",
+      "Quantity": 12,
+      "Price": 199.99
+    },
+    "TotalPrice": 799.96
+  }
+]

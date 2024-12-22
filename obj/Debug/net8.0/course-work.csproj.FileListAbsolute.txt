@@ -1,0 +1,17 @@
+D:\KPI\ооп\course-work\bin\Debug\net8.0\course-work.exe
+D:\KPI\ооп\course-work\bin\Debug\net8.0\course-work.deps.json
+D:\KPI\ооп\course-work\bin\Debug\net8.0\course-work.runtimeconfig.json
+D:\KPI\ооп\course-work\bin\Debug\net8.0\course-work.dll
+D:\KPI\ооп\course-work\bin\Debug\net8.0\course-work.pdb
+D:\KPI\ооп\course-work\obj\Debug\net8.0\course-work.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\ооп\course-work\obj\Debug\net8.0\course-work.AssemblyInfoInputs.cache
+D:\KPI\ооп\course-work\obj\Debug\net8.0\course-work.AssemblyInfo.cs
+D:\KPI\ооп\course-work\obj\Debug\net8.0\course-work.csproj.CoreCompileInputs.cache
+D:\KPI\ооп\course-work\obj\Debug\net8.0\course-work.dll
+D:\KPI\ооп\course-work\obj\Debug\net8.0\refint\course-work.dll
+D:\KPI\ооп\course-work\obj\Debug\net8.0\course-work.pdb
+D:\KPI\ооп\course-work\obj\Debug\net8.0\course-work.genruntimeconfig.cache
+D:\KPI\ооп\course-work\obj\Debug\net8.0\ref\course-work.dll
+D:\KPI\ооп\course-work\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\KPI\ооп\course-work\obj\Debug\net8.0\course-work.csproj.AssemblyReference.cache
+D:\KPI\ооп\course-work\obj\Debug\net8.0\course-w.7AD7690D.Up2Date
